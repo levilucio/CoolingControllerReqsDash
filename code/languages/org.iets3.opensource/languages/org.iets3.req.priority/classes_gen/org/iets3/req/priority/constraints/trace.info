@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,45,0" name="org.iets3.req.priority.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:3c731385-5e3f-4753-9229-716f71af884e(org.iets3.req.priority.constraints)/472917913057122417">
+    <file name="Priority_Constraints.java">
+      <node id="472917913057122417" at="17,33,18,148" concept="6" />
+      <node id="472917913057122417" at="22,84,23,119" concept="4" />
+      <node id="472917913057122417" at="26,40,27,20" concept="5" />
+      <node id="472917913057122417" at="30,70,31,39" concept="4" />
+      <node id="472917913057135223" at="32,9,33,66" concept="4" />
+      <node id="472917913057142853" at="33,66,34,40" concept="5" />
+      <node id="472917913057122417" at="37,7,38,22" concept="5" />
+      <node id="472917913057122417" at="17,0,20,0" concept="1" trace="Priority_Constraints#()V" />
+      <node id="472917913057122417" at="25,0,29,0" concept="3" trace="hasOwnValidator#()Z" />
+      <node id="472917913057122417" at="31,39,35,9" concept="0" />
+      <node id="472917913057122417" at="29,0,37,0" concept="3" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="472917913057122417" at="23,119,37,7" concept="2" />
+      <node id="472917913057122417" at="21,0,40,0" concept="3" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="472917913057122417" at="17,33,18,148" />
+      <scope id="472917913057122417" at="26,40,27,20" />
+      <scope id="472917913057133986" at="32,9,34,40">
+        <var name="i" id="472917913057135224" />
+      </scope>
+      <scope id="472917913057122417" at="17,0,20,0" />
+      <scope id="472917913057122417" at="25,0,29,0" />
+      <scope id="472917913057122417" at="30,70,35,9">
+        <var name="propertyName" id="472917913057122417" />
+      </scope>
+      <scope id="472917913057122417" at="29,0,37,0">
+        <var name="node" id="472917913057122417" />
+        <var name="propertyValue" id="472917913057122417" />
+      </scope>
+      <scope id="472917913057122417" at="22,84,38,22">
+        <var name="properties" id="472917913057122417" />
+      </scope>
+      <scope id="472917913057122417" at="21,0,40,0" />
+      <unit id="472917913057122417" at="24,147,37,5" name="org.iets3.req.priority.constraints.Priority_Constraints$1" />
+      <unit id="472917913057122417" at="16,0,41,0" name="org.iets3.req.priority.constraints.Priority_Constraints" />
+    </file>
+  </root>
+</debug-info>
+

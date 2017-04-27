@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081855346303:jetbrains.mps.baseLanguage.structure.BreakStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <root>
+    <file name="TypesystemDescriptor.java">
+      <unit at="8,0,16,0" name="org.iets3.req.priority.typesystem.TypesystemDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:3274f76b-d96d-4a99-8cb6-6a14080b1f74(org.iets3.req.priority.typesystem)/466382062349241320">
+    <file name="duplicatePriorityChecker_NonTypesystemRule.java">
+      <node id="472917913057399928" at="24,121,25,172" concept="7" />
+      <node id="472917913057479943" at="25,172,26,217" concept="7" />
+      <node id="472917913057404492" at="26,217,27,202" concept="7" />
+      <node id="472917913057661116" at="27,202,28,18" concept="7" />
+      <node id="472917913057723225" at="29,60,30,0" concept="9" />
+      <node id="472917913057665733" at="31,64,32,14" concept="1" />
+      <node id="472917913057723162" at="33,7,34,0" concept="9" />
+      <node id="472917913057572165" at="36,9,37,62" concept="7" />
+      <node id="472917913057572165" at="37,62,38,250" concept="7" />
+      <node id="472917913057662045" at="40,7,41,14" concept="3" />
+      <node id="466382062349241320" at="44,50,45,148" concept="8" />
+      <node id="466382062349241320" at="47,68,48,102" concept="8" />
+      <node id="466382062349241320" at="50,30,51,17" concept="8" />
+      <node id="466382062349241320" at="22,0,24,0" concept="2" trace="duplicatePriorityChecker_NonTypesystemRule#()V" />
+      <node id="472917913057662544" at="30,0,33,7" concept="5" />
+      <node id="466382062349241320" at="44,0,47,0" concept="6" trace="getApplicableConcept#()Lorg/jetbrains/mps/openapi/language/SAbstractConcept;" />
+      <node id="466382062349241320" at="47,0,50,0" concept="6" trace="isApplicableAndPattern#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;" />
+      <node id="466382062349241320" at="50,0,53,0" concept="6" trace="overrides#()Z" />
+      <node id="472917913057572165" at="35,170,39,9" concept="0" />
+      <node id="472917913057570902" at="34,0,40,7" concept="5" />
+      <node id="472917913057459768" at="28,18,42,5" concept="4" />
+      <node id="466382062349241320" at="24,0,44,0" concept="6" trace="applyRule#(Lorg/jetbrains/mps/openapi/model/SNode;Ljetbrains/mps/typesystem/inference/TypeCheckingContext;Ljetbrains/mps/lang/typesystem/runtime/IsApplicableStatus;)V" />
+      <scope id="466382062349241320" at="22,55,22,55" />
+      <scope id="472917913057662546" at="31,64,32,14" />
+      <scope id="466382062349241320" at="44,50,45,148" />
+      <scope id="466382062349241320" at="47,68,48,102" />
+      <scope id="466382062349241320" at="50,30,51,17" />
+      <scope id="466382062349241320" at="22,0,24,0" />
+      <scope id="472917913057572165" at="36,9,38,250">
+        <var name="_reporter_2309309498" id="472917913057572165" />
+        <var name="errorTarget" id="472917913057572165" />
+      </scope>
+      <scope id="466382062349241320" at="44,0,47,0" />
+      <scope id="466382062349241320" at="47,0,50,0">
+        <var name="argument" id="466382062349241320" />
+      </scope>
+      <scope id="466382062349241320" at="50,0,53,0" />
+      <scope id="472917913057570904" at="35,170,39,9" />
+      <scope id="472917913057459774" at="29,60,41,14" />
+      <scope id="472917913057459768" at="28,18,42,5">
+        <var name="term" id="472917913057459770" />
+      </scope>
+      <scope id="466382062349241321" at="24,121,42,5">
+        <var name="index" id="472917913057661119" />
+        <var name="name" id="472917913057399929" />
+        <var name="node" id="472917913057479944" />
+        <var name="priorityList" id="472917913057404493" />
+      </scope>
+      <scope id="466382062349241320" at="24,0,44,0">
+        <var name="priority" id="466382062349241320" />
+        <var name="status" id="466382062349241320" />
+        <var name="typeCheckingContext" id="466382062349241320" />
+      </scope>
+      <unit id="466382062349241320" at="21,0,54,0" name="org.iets3.req.priority.typesystem.duplicatePriorityChecker_NonTypesystemRule" />
+    </file>
+  </root>
+</debug-info>
+

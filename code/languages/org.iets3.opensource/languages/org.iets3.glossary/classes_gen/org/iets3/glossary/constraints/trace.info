@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,55,0" name="org.iets3.glossary.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:5bb4335b-fefd-4525-8504-bcf4e8951186(org.iets3.glossary.constraints)/2335327821120987587">
+    <file name="GlossaryChunk_Constraints.java">
+      <node id="2335327821120987587" at="13,38,14,150" concept="6" />
+      <node id="2335327821120987587" at="18,84,19,119" concept="3" />
+      <node id="2335327821120987587" at="19,119,20,22" concept="4" />
+      <node id="2335327821120987587" at="13,0,16,0" concept="0" trace="GlossaryChunk_Constraints#()V" />
+      <node id="2335327821120987587" at="17,0,22,0" concept="2" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="2335327821120987587" at="13,38,14,150" />
+      <scope id="2335327821120987587" at="18,84,20,22">
+        <var name="properties" id="2335327821120987587" />
+      </scope>
+      <scope id="2335327821120987587" at="13,0,16,0" />
+      <scope id="2335327821120987587" at="17,0,22,0" />
+      <unit id="2335327821120987587" at="12,0,23,0" name="org.iets3.glossary.constraints.GlossaryChunk_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:5bb4335b-fefd-4525-8504-bcf4e8951186(org.iets3.glossary.constraints)/7551038907536073916">
+    <file name="GlossaryDocSection_Constraints.java">
+      <node id="7551038907536073916" at="18,43,19,155" concept="6" />
+      <node id="7551038907536073916" at="23,84,24,119" concept="3" />
+      <node id="7551038907536073916" at="27,37,28,20" concept="4" />
+      <node id="7551038907536073916" at="31,42,32,37" concept="3" />
+      <node id="5151426049053712968" at="32,37,33,362" concept="4" />
+      <node id="7551038907536073916" at="36,40,37,20" concept="4" />
+      <node id="7551038907536073916" at="40,70,41,37" concept="3" />
+      <node id="2193292952316415626" at="41,37,42,20" concept="4" />
+      <node id="7551038907536073916" at="44,7,45,22" concept="4" />
+      <node id="7551038907536073916" at="18,0,21,0" concept="0" trace="GlossaryDocSection_Constraints#()V" />
+      <node id="7551038907536073916" at="26,0,30,0" concept="2" trace="hasOwnGetter#()Z" />
+      <node id="7551038907536073916" at="35,0,39,0" concept="2" trace="hasOwnValidator#()Z" />
+      <node id="7551038907536073916" at="30,0,35,0" concept="2" trace="getValue#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/Object;" />
+      <node id="7551038907536073916" at="39,0,44,0" concept="2" trace="validateValue#(Lorg/jetbrains/mps/openapi/model/SNode;Ljava/lang/String;)Z" />
+      <node id="7551038907536073916" at="24,119,44,7" concept="1" />
+      <node id="7551038907536073916" at="22,0,47,0" concept="2" trace="getSpecifiedProperties#()Ljava/util/Map;" />
+      <scope id="7551038907536073916" at="18,43,19,155" />
+      <scope id="7551038907536073916" at="27,37,28,20" />
+      <scope id="7551038907536073916" at="36,40,37,20" />
+      <scope id="7551038907536073916" at="31,42,33,362">
+        <var name="propertyName" id="7551038907536073916" />
+      </scope>
+      <scope id="7551038907536073916" at="40,70,42,20">
+        <var name="propertyName" id="7551038907536073916" />
+      </scope>
+      <scope id="7551038907536073916" at="18,0,21,0" />
+      <scope id="7551038907536073916" at="26,0,30,0" />
+      <scope id="7551038907536073916" at="35,0,39,0" />
+      <scope id="7551038907536073916" at="30,0,35,0">
+        <var name="node" id="7551038907536073916" />
+      </scope>
+      <scope id="7551038907536073916" at="39,0,44,0">
+        <var name="node" id="7551038907536073916" />
+        <var name="propertyValue" id="7551038907536073916" />
+      </scope>
+      <scope id="7551038907536073916" at="23,84,45,22">
+        <var name="properties" id="7551038907536073916" />
+      </scope>
+      <scope id="7551038907536073916" at="22,0,47,0" />
+      <unit id="7551038907536073916" at="25,137,44,5" name="org.iets3.glossary.constraints.GlossaryDocSection_Constraints$1" />
+      <unit id="7551038907536073916" at="17,0,48,0" name="org.iets3.glossary.constraints.GlossaryDocSection_Constraints" />
+    </file>
+  </root>
+  <root nodeRef="r:5bb4335b-fefd-4525-8504-bcf4e8951186(org.iets3.glossary.constraints)/7551038907536168796">
+    <file name="TermRefWord_Constraints.java">
+      <node id="7551038907536168796" at="23,36,24,148" concept="6" />
+      <node id="7551038907536168796" at="28,90,29,131" concept="3" />
+      <node id="7551038907536168796" at="32,44,33,20" concept="4" />
+      <node id="7551038907536168988" at="40,142,41,219" concept="4" />
+      <node id="7551038907536168796" at="44,63,45,58" concept="4" />
+      <node id="7551038907536168796" at="49,7,50,22" concept="4" />
+      <node id="7551038907536168796" at="52,0,53,0" concept="5" trace="breakingNode_gdsvhw_a0a1a0a0a1a0b0a1a2" />
+      <node id="7551038907536168796" at="23,0,26,0" concept="0" trace="TermRefWord_Constraints#()V" />
+      <node id="7551038907536168796" at="31,0,35,0" concept="2" trace="hasOwnScopeProvider#()Z" />
+      <node id="7551038907536168796" at="39,0,43,0" concept="2" trace="createSearchScopeOrListOfNodes#(Ljetbrains/mps/smodel/IOperationContext;Ljetbrains/mps/smodel/runtime/ReferenceConstraintsContext;)Ljava/lang/Object;" />
+      <node id="7551038907536168796" at="43,0,47,0" concept="2" trace="getSearchScopeValidatorNode#()Lorg/jetbrains/mps/openapi/model/SNodeReference;" />
+      <node id="7551038907536168796" at="37,56,47,10" concept="4" />
+      <node id="7551038907536168796" at="35,0,49,0" concept="2" trace="getScopeProvider#()Ljetbrains/mps/smodel/runtime/ReferenceScopeProvider;" />
+      <node id="7551038907536168796" at="29,131,49,7" concept="1" />
+      <node id="7551038907536168796" at="27,0,52,0" concept="2" trace="getSpecifiedReferences#()Ljava/util/Map;" />
+      <scope id="7551038907536168796" at="23,36,24,148" />
+      <scope id="7551038907536168796" at="32,44,33,20" />
+      <scope id="7551038907536168803" at="40,142,41,219" />
+      <scope id="7551038907536168796" at="44,63,45,58" />
+      <scope id="7551038907536168796" at="23,0,26,0" />
+      <scope id="7551038907536168796" at="31,0,35,0" />
+      <scope id="7551038907536168796" at="39,0,43,0">
+        <var name="_context" id="7551038907536168796" />
+        <var name="operationContext" id="7551038907536168796" />
+      </scope>
+      <scope id="7551038907536168796" at="43,0,47,0" />
+      <scope id="7551038907536168796" at="37,56,47,10" />
+      <scope id="7551038907536168796" at="35,0,49,0" />
+      <scope id="7551038907536168796" at="28,90,50,22">
+        <var name="references" id="7551038907536168796" />
+      </scope>
+      <scope id="7551038907536168796" at="27,0,52,0" />
+      <unit id="7551038907536168796" at="38,19,47,9" name="org.iets3.glossary.constraints.TermRefWord_Constraints$2" />
+      <unit id="7551038907536168796" at="30,152,49,5" name="org.iets3.glossary.constraints.TermRefWord_Constraints$1" />
+      <unit id="7551038907536168796" at="22,0,54,0" name="org.iets3.glossary.constraints.TermRefWord_Constraints" />
+    </file>
+  </root>
+</debug-info>
+

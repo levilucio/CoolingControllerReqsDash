@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <root>
+    <file name="ActionAspectDescriptorImpl.java">
+      <unit at="13,0,34,0" name="org.iets3.req.core.actions.ActionAspectDescriptorImpl" />
+    </file>
+    <file name="QueriesGenerated.java">
+      <unit at="6,0,8,0" name="org.iets3.req.core.actions.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:f5253ab4-9d09-429b-bdb0-9d12ca0a028b(org.iets3.req.core.actions)/816340308089925199">
+    <file name="GenerateUniqueID.java">
+      <node id="6198777873219443770" at="17,91,18,26" concept="4" />
+      <node id="6198777873220184851" at="18,26,19,280" concept="0" />
+      <node id="6198777873219420117" at="19,280,20,16" concept="4" />
+      <node id="7049464676097414439" at="20,16,21,16" concept="0" />
+      <node id="6198777873219436317" at="23,185,24,181" concept="0" />
+      <node id="6198777873219458397" at="26,7,27,184" concept="0" />
+      <node id="6198777873219420213" at="22,56,25,9" concept="2" />
+      <node id="6198777873219420142" at="21,16,26,7" concept="1" />
+      <node id="816340308089925200" at="17,0,29,0" concept="3" trace="setup#(Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SNode;Lorg/jetbrains/mps/openapi/model/SModel;)V" />
+      <scope id="6198777873219420214" at="23,185,24,181" />
+      <scope id="6198777873219420146" at="22,56,25,9" />
+      <scope id="6198777873219420142" at="21,16,26,7">
+        <var name="req" id="6198777873219420144" />
+      </scope>
+      <scope id="816340308089925200" at="17,91,27,184">
+        <var name="allreqs" id="6198777873219443773" />
+        <var name="maxID" id="6198777873219420120" />
+      </scope>
+      <scope id="816340308089925200" at="17,0,29,0">
+        <var name="enclosingNode" id="816340308089925200" />
+        <var name="model" id="816340308089925200" />
+        <var name="newNode" id="816340308089925200" />
+        <var name="sampleNode" id="816340308089925200" />
+      </scope>
+      <unit id="816340308089925200" at="16,0,30,0" name="org.iets3.req.core.actions.GenerateUniqueID$NodeFactory_816340308089925200" />
+      <unit id="816340308089925199" at="15,0,31,0" name="org.iets3.req.core.actions.GenerateUniqueID" />
+    </file>
+  </root>
+</debug-info>
+

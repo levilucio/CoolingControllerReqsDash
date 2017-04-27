@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <root>
+    <file name="BehaviorAspectDescriptor.java">
+      <unit at="13,0,41,0" name="org.iets3.req.priority.behavior.BehaviorAspectDescriptor" />
+    </file>
+    <file name="Priority_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="org.iets3.req.priority.behavior.Priority_BehaviorDescriptor" />
+    </file>
+    <file name="RootPriority_BehaviorDescriptor.java">
+      <unit at="11,0,17,0" name="org.iets3.req.priority.behavior.RootPriority_BehaviorDescriptor" />
+    </file>
+  </root>
+</debug-info>
+
