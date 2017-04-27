@@ -7,192 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3830bde-ea0f-44dd-ac09-ebf685d11757" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/actions.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/intentions.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/refactorings.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/typesystem.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/models/org/iets3/process/modelproperty/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/models/org/iets3/process/modelproperty/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/models/org/iets3/process/modelproperty/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/models/org/iets3/process/modelproperty/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/models/org/iets3/process/modelproperty/typesystem.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/behavior/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/behavior/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/constraints/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/constraints/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/editor/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/editor/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/structure/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/structure/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/typesystem/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen.caches/org/iets3/process/modelproperty/typesystem/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/BehaviorAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/EmptyRequirementPropertyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/EmptyRequirementProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/EmptyRequirementProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/EmptyTablePropertyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/EmptyTableProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/EmptyTableProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ErrorFreeTablePropertyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ErrorFreeTableProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ErrorFreeTableProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/GlossaryTermDefinedPropertyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/GlossaryTermDefinedProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/GlossaryTermDefinedProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ModelProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ModelProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ProjectIsCreatedPropertyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ProjectIsCreatedProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/ProjectIsCreatedProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/RequirementsChunkNotPresentPropertyClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/RequirementsChunkNotPresentProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/RequirementsChunkNotPresentProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/RequirementsErrorFreeClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/RequirementsErrorFreeProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/RequirementsErrorFreeProperty__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/constraints/ConstraintsAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/editor/EditorAspectDescriptorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/structure/ConceptPresentationAspectImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/structure/StructureAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/typesystem/TypesystemDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/PropertyLanguage/source_gen/org/iets3/process/modelproperty/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/models/org/iets3/process/modelproperty/formulae/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/models/org/iets3/process/modelproperty/formulae/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/models/org/iets3/process/modelproperty/formulae/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/models/org/iets3/process/modelproperty/formulae/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/models/org/iets3/process/modelproperty/formulae/typesystem.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/behavior/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/behavior/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/constraints/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/constraints/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/editor/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/editor/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/structure/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/structure/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/typesystem/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen.caches/org/iets3/process/modelproperty/formulae/typesystem/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/AndPropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/AtomicProperty_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/BehaviorAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/BinaryPropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/ImplicationPropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/NotPropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/OrPropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/PropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/UnaryPropertyFormula_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/constraints/AtomicProperty_Constraints.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/constraints/BinaryPropertyFormula_Constraints.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/constraints/ConstraintsAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/AndPropertyFormula_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/AtomicProperty_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/EditorAspectDescriptorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/ImplicationPropertyFormula_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/NotPropertyFormula_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/OrPropertyFormula_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/structure/ConceptPresentationAspectImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/structure/StructureAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/typesystem/TypesystemDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.flow.property.formulae/source_gen/org/iets3/process/modelproperty/formulae/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/actions.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/behavior.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/constraints.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/editor.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/intentions.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/typesystem.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/FlowModel/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/FlowModel/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/actions/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/actions/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/behavior/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/behavior/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/constraints/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/constraints/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/editor/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/editor/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/intentions/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/intentions/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/typesystem/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/typesystem/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/FlowModel/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/actions/ActionAspectDescriptorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/actions/Populatefactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/actions/QueriesGenerated.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/actions/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/BehaviorAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/DashboardHintDisplayer_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/DashboardHintDisplayer__BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/DashboardUtility.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/FlowData_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/NodePointer_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/StatePointer_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/State_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/TableRenderer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/constraints/ConstraintsAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/Arrow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/BoxColor_StyleSheet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/BoxVisulisation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/DashboardHintDisplayer_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/DashboardHintDisplayer_TabularView_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/DashboardHintDisplayer_Textual_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/DashboardHintDisplayer_TransformationMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/EditorAspectDescriptorImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/FlowData_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/StatePointer_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/StatePointer_Textual_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/State_DirectedGraph_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/State_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/State_Textual_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/intentions/IntentionsDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/intentions/calculate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/intentions/generateTransformationMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/intentions/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/FlowStateMode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/FlowStateMode_PropertySupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/StructureAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/typesystem/TypesystemDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/models/org/iets3/process/instance/coolingmodel.mps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/flow/core/instance/coolingmodel/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/flow/core/instance/coolingmodel/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/flow/process/instance/coolingmodel/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/flow/process/instance/coolingmodel/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/process/instance/coolingmodel/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/process/instance/coolingmodel/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen/org/iets3/flow/core/instance/coolingmodel/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen/org/iets3/flow/process/instance/coolingmodel/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen/org/iets3/process/instance/coolingmodel/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
     </list>
     <ignored path="org.iets3.opensource.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -251,7 +66,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="e6a0e00f-f8dd-45f2-8c05-5e660cbf2428/r:d0a903c3-a170-4aa1-9603-e5f3c3d3e042(TempModulee6a0e00f-f8dd-45f2-8c05-5e660cbf2428/TempModel_170355844543150)">
+            <model ref="684df5ec-a29a-41e4-aacb-4aea4a73d6d5/r:89354f79-19ac-48a0-9bd6-d48e5848f255(TempModule684df5ec-a29a-41e4-aacb-4aea4a73d6d5/TempModel_178208608495761)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -281,9 +96,9 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="3Xms3n6zWSX">
-                <node concept="3balQm" id="3Xms3n6zWSY" role="aymYE" />
-                <node concept="2Clz$F" id="3Xms3n6zWSZ" role="aymYO">
+              <node concept="aymSD" id="3Xms3n7$Zgo">
+                <node concept="3balQm" id="3Xms3n7$Zgp" role="aymYE" />
+                <node concept="2Clz$F" id="3Xms3n7$Zgq" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
               </node>
@@ -810,16 +625,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <SELECTED>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="flow" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </SELECTED>
         </subPane>
       </pane>
       <pane id="Favorites" />
