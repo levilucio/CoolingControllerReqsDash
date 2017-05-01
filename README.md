@@ -19,6 +19,8 @@ Video demo: under construction.....
 
     `your_repo_root/code/languages`
 
-5. Please use the following Requirement statement for the Demo purpose
+### Demo Requirement State
+
+Use the following requirement statement for the demo purpose
 
 The cooling controller shall cool down the hardware board by adjusting the speed of the fan to an appropriate duty cycle. The duty cycle depends on the current temperature of the hardware and whether that temperature is increasing between minValueIncrease and maxValueIncrease , or decreasing between a minValueDecrease and a maxValueDecrease
