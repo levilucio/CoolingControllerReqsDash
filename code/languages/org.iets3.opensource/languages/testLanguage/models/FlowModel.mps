@@ -75,7 +75,7 @@
       <property role="32A5R2" value="Create new requirements project" />
       <property role="2O0g8m" value="true" />
       <property role="2OILL5" value="false" />
-      <property role="2OHfpo" value="1" />
+      <property role="2OHfpo" value="0" />
       <node concept="aRPxe" id="3Xms3n6wQQQ" role="32A5R0">
         <node concept="3x7ZJP" id="3Xms3n6wQQR" role="1y4i0q">
           <ref role="35c_gD" to="oehh:7tAIZp0bkmp" resolve="ProjectIsCreatedProperty" />
@@ -106,7 +106,7 @@
       <property role="32A5R2" value="Please add a requirement for the cooling system where you define the temperature thresholds as glossary terms" />
       <property role="2O0g8m" value="false" />
       <property role="2OILL5" value="false" />
-      <property role="2OHfpo" value="2" />
+      <property role="2OHfpo" value="0" />
       <node concept="aRPxN" id="3Xms3n6wQQY" role="32A5R0">
         <node concept="3x7ZJP" id="3Xms3n6wQQZ" role="1y4i0j">
           <ref role="35c_gD" to="oehh:7tAIZp0bkmp" resolve="ProjectIsCreatedProperty" />
@@ -150,7 +150,7 @@
       <property role="32A5R2" value="Please define the glossary terms" />
       <property role="2O0g8m" value="false" />
       <property role="2OILL5" value="false" />
-      <property role="2OHfpo" value="2" />
+      <property role="2OHfpo" value="0" />
       <node concept="aRPxN" id="3Xms3n6wQR9" role="32A5R0">
         <node concept="3x7ZJP" id="3Xms3n6wQRa" role="1y4i0j">
           <ref role="35c_gD" to="oehh:23Wc6usRcwc" resolve="RequirementsErrorFreeProperty" />
@@ -180,7 +180,7 @@
       <property role="32A5R2" value="Please complete the missing information in the requirements" />
       <property role="2O0g8m" value="false" />
       <property role="2OILL5" value="false" />
-      <property role="2OHfpo" value="2" />
+      <property role="2OHfpo" value="0" />
       <node concept="aRPxN" id="3Xms3n6wQRg" role="32A5R0">
         <node concept="3x7ZJP" id="3Xms3n6wQRh" role="1y4i0p">
           <ref role="35c_gD" to="oehh:38QI5jjR3Qm" resolve="GlossaryTermDefinedProperty" />
@@ -210,7 +210,7 @@
       <property role="32A5R2" value="Create the controller's functional behavior as a table" />
       <property role="2O0g8m" value="false" />
       <property role="2OILL5" value="false" />
-      <property role="2OHfpo" value="2" />
+      <property role="2OHfpo" value="0" />
       <node concept="aRPxN" id="3Xms3n6wQRn" role="32A5R0">
         <node concept="3x7ZJP" id="3Xms3n6wQRo" role="1y4i0j">
           <ref role="35c_gD" to="oehh:23Wc6usRcwc" resolve="RequirementsErrorFreeProperty" />
@@ -244,7 +244,7 @@
       <property role="32A5R2" value="Please complete the controller's functional behavior" />
       <property role="2O0g8m" value="false" />
       <property role="2OILL5" value="false" />
-      <property role="2OHfpo" value="2" />
+      <property role="2OHfpo" value="0" />
       <node concept="aRPxN" id="3Xms3n6wQRu" role="32A5R0">
         <node concept="aRPxe" id="3Xms3n6wQRv" role="1y4i0p">
           <node concept="3x7ZJP" id="3Xms3n6wQRw" role="1y4i0q">
@@ -274,7 +274,7 @@
       <property role="32A5R2" value="The controller's behavior is now complete" />
       <property role="2O0g8m" value="false" />
       <property role="2OILL5" value="true" />
-      <property role="2OHfpo" value="2" />
+      <property role="2OHfpo" value="1" />
       <node concept="3x7ZJP" id="3Xms3n6wQR_" role="32A5R0">
         <ref role="35c_gD" to="oehh:7tAIZp0cVX0" resolve="ErrorFreeTableProperty" />
         <node concept="35c_gC" id="3Xms3n6wQRA" role="2DkB7w">

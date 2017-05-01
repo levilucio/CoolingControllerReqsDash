@@ -18,3 +18,7 @@ Video demo: under construction.....
 4. Start MPS and open the _org.iets3.opensource_ project at:
 
     `your_repo_root/code/languages`
+
+5. Please use the following Requirement statement for the Demo purpose
+
+The cooling controller shall cool down the hardware board by adjusting the speed of the fan to an appropriate duty cycle. The duty cycle depends on the current temperature of the hardware and whether that temperature is increasing between minValueIncrease and maxValueIncrease , or decreasing between a minValueDecrease and a maxValueDecrease
