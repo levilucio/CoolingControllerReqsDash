@@ -2,7 +2,7 @@
 
 An implementation of a flow process for assisting the user when writing requirements for the Cooling Controller
 
-Video demo: under construction.....
+Video demo: https://youtu.be/HcYH6AV1UEU
 
 ## Install instructions
 
