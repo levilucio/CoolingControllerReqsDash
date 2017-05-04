@@ -7,38 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3830bde-ea0f-44dd-ac09-ebf685d11757" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/F.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/T.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/D.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/IconContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/IconContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/IconContainer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/D.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/F.png" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/F.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/T.png" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/T.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/trace.info" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/structure.mps" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/generated" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/dependencies" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/generated" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/trace.info" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/models/org/iets3/table/coolingbehaviortable/structure.mps" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/models/org/iets3/table/coolingbehaviortable/structure.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/generated" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/dependencies" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/dependencies" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/generated" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/trace.info" afterPath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/models/FlowModel.mps" afterPath="$PROJECT_DIR$/languages/testLanguage/models/FlowModel.mps" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/FlowModel/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/FlowModel/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/dependencies" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/dependencies" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/IconContainer.java" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/IconContainer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/trace.info" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/process/instance/coolingmodel/generated" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/process/instance/coolingmodel/generated" />
     </list>
     <ignored path="org.iets3.opensource.iws" />
     <ignored path=".mps/workspace.xml" />
@@ -91,54 +73,6 @@
       </set>
     </option>
   </component>
-  <component name="ConsoleHistory">
-    <option name="tabs">
-      <list>
-        <TabState>
-          <option name="title" value="Console" />
-          <tab>
-            <model ref="b791b9b1-f30c-47d6-b194-74319668773e/r:bbed9abd-59c6-4419-bbef-e09e9fccfe41(TempModuleb791b9b1-f30c-47d6-b194-74319668773e/TempModel_91000213100036)">
-              <persistence version="9" />
-              <languages>
-                <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
-                <use id="a5e4de53-46a3-44da-aab3-68fdf1c34ed0" name="jetbrains.mps.console.ideCommands" version="1" />
-                <use id="995a7394-7f76-4b8b-a929-c53448708106" name="jetbrains.mps.console.internalCommands" version="0" />
-                <use id="f26691d2-0def-4c06-aec6-2cb90c4af0a4" name="jetbrains.mps.console.scripts" version="0" />
-                <devkit ref="fbc25dd2-5da4-483a-8b19-70928e1b62d7(jetbrains.mps.devkit.general-purpose)" />
-              </languages>
-              <imports>
-                <import index="eynw" ref="r:359b1d2b-77c4-46df-9bf2-b25cbea32254(jetbrains.mps.console.base.structure)" />
-                <import index="caxt" ref="r:135a606f-0376-4c5c-9ab8-4030f051a062(jetbrains.mps.console.ideCommands.structure)" />
-                <import index="wns9" ref="r:90445206-a973-4c1d-b760-30e5c77b7497(jetbrains.mps.console.internalCommands.structure)" />
-                <import index="z2sp" ref="r:e712f353-5c3c-4288-adce-87c956a52ffb(jetbrains.mps.console.scripts.structure)" />
-              </imports>
-              <registry>
-                <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
-                  <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
-                    <property id="1169194664001" name="name" index="TrG5h" />
-                  </concept>
-                </language>
-                <language id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base">
-                  <concept id="1583916890557930028" name="jetbrains.mps.console.base.structure.ConsoleRoot" flags="ng" index="aymSD">
-                    <child id="1583916890557930415" name="history" index="aymYE" />
-                    <child id="1583916890557930417" name="commandHolder" index="aymYO" />
-                  </concept>
-                  <concept id="351968380916615243" name="jetbrains.mps.console.base.structure.CommandHolder" flags="ng" index="2Clz$F" />
-                  <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
-                </language>
-              </registry>
-              <node concept="aymSD" id="1PbWNgecSdo">
-                <node concept="3balQm" id="1PbWNgecSdp" role="aymYE" />
-                <node concept="2Clz$F" id="1PbWNgecSdq" role="aymYO">
-                  <property role="TrG5h" value="CommandHolder" />
-                </node>
-              </node>
-            </model>
-          </tab>
-        </TabState>
-      </list>
-    </option>
-  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -156,7 +90,146 @@
     </search_options>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CoolingBehaviorTable" pinned="false" current-in-tab="false">
+        <entry file="mps://node://org.iets3.table.coolingbehaviortable/org.iets3.table.coolingbehaviortable.structure/CoolingBehaviorTable">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="71" />
+                    <property name="caretXRelative" value="56" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                      <node node_reference="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="-64" />
+                    <property name="caretXRelative" value="-143" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardHintDisplayer" pinned="false" current-in-tab="false">
+        <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="31" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="-64" />
+                    <property name="caretXRelative" value="-143" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlowData" pinned="false" current-in-tab="true">
+        <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/FlowData">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="71" />
+                    <property name="caretXRelative" value="56" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+              </memento>
+              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                    <property name="caretX" value="-64" />
+                    <property name="caretXRelative" value="-143" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <errorMarkers />
+                <transactionalProperties />
+                <foldable />
+                <restoreAlways />
+                <enabledHints>
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+                </enabledHints>
+              </inspectorMemento>
+              <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -176,6 +249,9 @@
         <BookmarkInfo />
       </array>
     </option>
+  </component>
+  <component name="MigrationTrigger">
+    <option name="tips" value="false" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
@@ -468,11 +544,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -490,6 +579,18 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -512,34 +613,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/solutions/FlowDescriptorSandbox/models/org/iets3/process/instance/coolingmodel.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="process" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="process" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -553,29 +626,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/solutions/FlowDescriptorSandbox/models/org/iets3/process/instance/coolingmodel.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="4833124655349420812" />
+              <option name="myItemId" value="e8ac6d12-64b2-4478-bf9a-80cbf4ec8c16(org.iets3.process.core)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+      <pane id="FileSystem" />
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
         <subPane />
       </pane>
       <pane id="Favorites" />
-      <pane id="FileSystem" />
+      <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
+        <subPane />
+      </pane>
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
@@ -586,23 +650,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <MyState>
-        <option name="mySettings">
-          <RemoteConnectionSettings>
-            <option name="hostName" value="localhost" />
-            <option name="port" value="5005" />
-            <option name="sharedMemoryAddress" value="" />
-            <option name="suspend" value="false" />
-            <option name="useSockets" value="true" />
-          </RemoteConnectionSettings>
-        </option>
-      </MyState>
-      <method />
-    </configuration>
+    <property name="last_opened_file_path" value="$USER_HOME$/EARS-CTRLDash/code/languages/org.iets3.opensource" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -611,57 +659,57 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Diagram Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32681563" sideWeight="0.492595" order="28" side_tool="false" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28058878" sideWeight="0.50804895" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Spin Verification Result" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Variabiity Consistency Verification" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Tree" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.52191234" order="14" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Chart" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.47808766" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Diagram Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28058878" sideWeight="0.50804895" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="CBMC Lifted Results" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spin Verification Result" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Spin Lifted Results" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
-      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934684" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
-      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31474105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="CBMC Raw Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
-      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
-      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
-      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="27" side_tool="false" content_ui="tabs" />
+      <window_info id="Variabiity Consistency Verification" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Tree" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Graph Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Chart" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32681563" sideWeight="0.492595" order="28" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.005988024" sideWeight="0.5250996" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Last Result" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.005988024" sideWeight="0.4749004" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0975161" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934684" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
+      <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Visualisation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
+      <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependencies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="27" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UsagesViewTool">
@@ -683,7 +731,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
       <provider selected="true" editor-type-id="MPSFileEditor">
@@ -1833,75 +1880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.table.coolingbehaviortable/org.iets3.table.coolingbehaviortable.structure/CoolingBehaviorTable">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="71" />
-                <property name="caretXRelative" value="56" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-          <node node_ref="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="31" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
-                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-          <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/Cooling Controller Requirements">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -2004,6 +1982,138 @@
             </enabledHints>
           </inspectorMemento>
           <node node_ref="r:b55a2780-4acd-46ea-b2fe-b6161b3f3a86(org.iets3.process.core.structure)/4833124655349364979" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.table.coolingbehaviortable/org.iets3.table.coolingbehaviortable.structure/CoolingBehaviorTable">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="-64" />
+                <property name="caretXRelative" value="-143" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="-64" />
+                <property name="caretXRelative" value="-143" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/FlowData">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="-64" />
+                <property name="caretXRelative" value="-143" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" />
         </state>
       </provider>
     </entry>

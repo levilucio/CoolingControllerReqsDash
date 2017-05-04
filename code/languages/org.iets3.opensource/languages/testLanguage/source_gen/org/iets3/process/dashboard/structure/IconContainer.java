@@ -6,4 +6,5 @@ import jetbrains.mps.smodel.runtime.IconResource;
 
 public class IconContainer {
   protected static IconResource RESOURCE_a0a0a = new IconResource("D.png", IconContainer.class);
+  protected static IconResource RESOURCE_a0a0b = new IconResource("F.png", IconContainer.class);
 }
