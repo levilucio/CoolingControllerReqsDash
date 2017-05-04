@@ -9,7 +9,7 @@ import org.jetbrains.annotations.Nullable;
 import org.jetbrains.mps.openapi.language.SAbstractConcept;
 
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
-  private final ConceptPresentation props_DashboardHintDisplayer = new ConceptPresentationBuilder().create();
+  private final ConceptPresentation props_DashboardHintDisplayer = new ConceptPresentationBuilder().icon(IconContainer.RESOURCE_a0a0a).create();
   private final ConceptPresentation props_FlowData = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_NodePointer = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_State = new ConceptPresentationBuilder().create();

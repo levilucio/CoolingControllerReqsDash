@@ -11,7 +11,7 @@ import org.jetbrains.mps.openapi.language.SAbstractConcept;
 public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase {
   private final ConceptPresentation props_CoolingBehaviorIncDecCell = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_CoolingBehaviorRow = new ConceptPresentationBuilder().create();
-  private final ConceptPresentation props_CoolingBehaviorTable = new ConceptPresentationBuilder().create();
+  private final ConceptPresentation props_CoolingBehaviorTable = new ConceptPresentationBuilder().icon(IconContainer.RESOURCE_a0a0c).create();
   private final ConceptPresentation props_DecreasingThreshold = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_DecreasingValue = new ConceptPresentationBuilder().create();
   private final ConceptPresentation props_DutyCycleVal = new ConceptPresentationBuilder().create();

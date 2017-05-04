@@ -7,12 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3830bde-ea0f-44dd-ac09-ebf685d11757" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.core.users/icons/UserDirectoryCharIcon.png" afterPath="$PROJECT_DIR$/languages/org.iets3.core.users/icons/UserDirectoryCharIcon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.req.core/icons/RequirementsChunkCharIcon.png" afterPath="$PROJECT_DIR$/languages/org.iets3.req.core/icons/RequirementsChunkCharIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/F.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/T.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/D.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/IconContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/IconContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/IconContainer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.class" afterPath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.mps/workspace.xml" afterPath="$PROJECT_DIR$/.mps/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/models/FlowModel.mps" afterPath="$PROJECT_DIR$/languages/testLanguage/models/FlowModel.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/FlowModel/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/FlowModel/generated" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/models/org/iets3/process/instance/coolingmodel.mps" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/models/org/iets3/process/instance/coolingmodel.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/trace.info" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/classes_gen/org/iets3/process/core/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/structure.mps" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/models/org/iets3/process/core/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/generated" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/dependencies" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/generated" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen.caches/org/iets3/process/core/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/ConceptPresentationAspectImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/trace.info" afterPath="$PROJECT_DIR$/languages/ConstratintsDescriptor/source_gen/org/iets3/process/core/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/classes_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/models/org/iets3/table/coolingbehaviortable/structure.mps" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/models/org/iets3/table/coolingbehaviortable/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/generated" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/dependencies" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/generated" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen.caches/org/iets3/table/coolingbehaviortable/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/ConceptPresentationAspectImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" afterPath="$PROJECT_DIR$/languages/org.iets3.table.diehltable/source_gen/org/iets3/table/coolingbehaviortable/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/trace.info" afterPath="$PROJECT_DIR$/languages/testLanguage/classes_gen/org/iets3/process/dashboard/structure/trace.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/dependencies" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/dependencies" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.java" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/ConceptPresentationAspectImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/trace.info" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen/org/iets3/process/dashboard/structure/trace.info" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/process/instance/coolingmodel/generated" afterPath="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/source_gen.caches/org/iets3/process/instance/coolingmodel/generated" />
     </list>
     <ignored path="org.iets3.opensource.iws" />
@@ -72,7 +97,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="c50d823a-6297-421a-b714-9c7b28c30ffc/r:69b78225-3980-460d-bc79-09f523ca7cd9(TempModulec50d823a-6297-421a-b714-9c7b28c30ffc/TempModel_498644884613)">
+            <model ref="b791b9b1-f30c-47d6-b194-74319668773e/r:bbed9abd-59c6-4419-bbef-e09e9fccfe41(TempModuleb791b9b1-f30c-47d6-b194-74319668773e/TempModel_91000213100036)">
               <persistence version="9" />
               <languages>
                 <use id="de1ad86d-6e50-4a02-b306-d4d17f64c375" name="jetbrains.mps.console.base" version="0" />
@@ -102,9 +127,9 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="6fpeHTAzlGe">
-                <node concept="3balQm" id="6fpeHTAzlGf" role="aymYE" />
-                <node concept="2Clz$F" id="6fpeHTAzlGg" role="aymYO">
+              <node concept="aymSD" id="1PbWNgecSdo">
+                <node concept="3balQm" id="1PbWNgecSdp" role="aymYE" />
+                <node concept="2Clz$F" id="1PbWNgecSdq" role="aymYO">
                   <property role="TrG5h" value="CommandHolder" />
                 </node>
               </node>
@@ -131,221 +156,7 @@
     </search_options>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Cooling Controller Requirements" pinned="false" current-in-tab="false">
-        <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/Cooling Controller Requirements">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="56" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="empty_copyProperty" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/5696857644855543708" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DashboardHintDisplayer" pinned="false" current-in-tab="false">
-        <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="25" />
-                    <property name="caretXRelative" value="0" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_m53z7w_e0" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-                </enabledHints>
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllerbehavior" pinned="false" current-in-tab="true">
-        <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="325" />
-                    <property name="caretXRelative" value="160" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllerreq" pinned="false" current-in-tab="false">
-        <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerreq">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="159" />
-                    <property name="caretXRelative" value="128" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788176" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786915" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786921" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_tags" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786915" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786873" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786921" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
-                      <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786873" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Cooling Behavior" pinned="false" current-in-tab="false">
-        <entry file="mps://node://org.iets3.table.coolingbehavior.examples/org.iets3.req.table.diehltable.sandbox/Cooling Behavior">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.NodeRangeSelection">
-                    <property name="role" value="drow" />
-                    <property name="modelId" value="r:62b7520a-c577-477b-9086-64b4fd837011(org.iets3.req.table.diehltable.sandbox)" />
-                    <property name="firstNodeId" value="6837638942488248318" />
-                    <property name="parentNodeId" value="3665318202133836488" />
-                    <property name="lastNodeId" value="3665318202133836491" />
-                  </stackElement>
-                </selectionStack>
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-              </memento>
-              <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <errorMarkers />
-                <transactionalProperties />
-                <foldable />
-                <restoreAlways />
-                <enabledHints>
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-                  <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-                </enabledHints>
-              </inspectorMemento>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
@@ -657,14 +468,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
+        <subPane />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -682,32 +490,6 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tablelanguage" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/org.iets3.req.table.diehltable.examples/org.iets3.table.coolingbehavior.examples.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:62b7520a-c577-477b-9086-64b4fd837011(org.iets3.req.table.diehltable.sandbox) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/solutions/org.iets3.req.table.diehltable.examples/models/org/iets3/req/table/diehltable/sandbox.mps}" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tablelanguage" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -739,24 +521,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tablelanguage" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/org.iets3.req.table.diehltable.examples/org.iets3.table.coolingbehavior.examples.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="org" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="process" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -779,31 +543,17 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tablelanguage" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/org.iets3.req.table.diehltable.examples/org.iets3.table.coolingbehavior.examples.msd" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tablelanguage" />
+              <option name="myItemId" value="process" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/org.iets3.req.table.diehltable.examples/org.iets3.table.coolingbehavior.examples.msd" />
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -811,23 +561,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="r:62b7520a-c577-477b-9086-64b4fd837011(org.iets3.req.table.diehltable.sandbox) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/solutions/org.iets3.req.table.diehltable.examples/models/org/iets3/req/table/diehltable/sandbox.mps}" />
+              <option name="myItemId" value="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/solutions/FlowDescriptorSandbox/models/org/iets3/process/instance/coolingmodel.mps}" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="3665318202133836488" />
+              <option name="myItemId" value="4833124655349420812" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
         </subPane>
       </pane>
-      <pane id="CustomProjectView_com.mbeddr.mpsutil.favourites.plugin.plugin.FavouritesProjectView">
-        <subPane />
-      </pane>
-      <pane id="Favorites" />
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
       </pane>
+      <pane id="Favorites" />
       <pane id="FileSystem" />
       <pane id="CustomProjectView_org.iets3.core.plugin.plugin.SpecExplorer">
         <subPane />
@@ -842,38 +589,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
-      <MyState />
-      <myJUnitSettings>
-        <MyState>
-          <option name="myModel" />
-          <option name="myModule" />
-          <option name="myInProcess" value="true" />
-          <option name="myReuseCaches" value="true" />
-          <option name="myDebug" value="false" />
-          <option name="myCachesPath" value="/tmp/mps_test_dir0" />
-          <option name="myTestCases">
-            <list />
-          </option>
-          <option name="myTestMethods">
-            <list />
-          </option>
-          <option name="myRunType" value="0" />
-        </MyState>
-      </myJUnitSettings>
-      <myJavaRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myJavaRunParameters>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <MyState>
+        <option name="mySettings">
+          <RemoteConnectionSettings>
+            <option name="hostName" value="localhost" />
+            <option name="port" value="5005" />
+            <option name="sharedMemoryAddress" value="" />
+            <option name="suspend" value="false" />
+            <option name="useSockets" value="true" />
+          </RemoteConnectionSettings>
+        </option>
+      </MyState>
       <method />
     </configuration>
   </component>
@@ -885,7 +612,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -902,12 +629,12 @@
       <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Tree" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.5187251" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.52191234" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Chart" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.4812749" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.47808766" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="CBMC Lifted Results" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -919,7 +646,7 @@
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="mbeddr TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31474105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31474105" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="CBMC Raw Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="24" side_tool="false" content_ui="tabs" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
       <window_info id="Cell Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
@@ -956,316 +683,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="457" />
-                <property name="caretXRelative" value="20" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_Max" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785193" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_m53z7w_e0" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="256" viewPositionY="142">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_m53z7w_e0" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785193" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="457" />
-                <property name="caretXRelative" value="20" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_Max" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785193" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785193" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_drow" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578784720" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="256" viewPositionY="142">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_m53z7w_e0" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="256" viewPositionY="142">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_m53z7w_e0" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578784720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="empty_drow" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578784720" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578784720" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="438" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_dutyCycle" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/6837638942488248321" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578781815" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -1339,40 +758,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="438" />
-                <property name="caretXRelative" value="32" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_dutyCycle" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/6837638942488248321" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/6837638942488248321" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1446,60 +832,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[RequirementsChunk]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786297" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_config" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786297" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[RequirementsChunk]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786297" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_config" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786297" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[RequirementsChunk]" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[RequirementsChunk]" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerreq">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
@@ -1534,60 +868,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[DocumentConfig]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="IANC_property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786298" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_defaultTempPath" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786298" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[DocumentConfig]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="IANC_property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786298" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_defaultTempPath" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786298" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[DocumentConfig]" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[DocumentConfig]" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/democonfig">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -1823,54 +1105,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[UserDirectory]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786300" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[UserDirectory]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786300" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[UserDirectory]" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[UserDirectory]" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/users">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -2166,96 +1402,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[GlossaryChunk]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786299" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788172" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788012" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578787857" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578787707" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[GlossaryChunk]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786299" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788172" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788012" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578787857" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578787707" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[GlossaryChunk]" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[GlossaryChunk]" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerglossary">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -2312,71 +1460,6 @@
             <enabledHints>
               <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
               <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerreq">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="159" />
-                <property name="caretXRelative" value="128" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788176" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786915" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786921" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_tags" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786915" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786873" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786921" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786873" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
             </enabledHints>
           </inspectorMemento>
         </state>
@@ -2451,99 +1534,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[CoolingBehaviorTable]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_increasingThreshold" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_decreasingThreshold" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[CoolingBehaviorTable]">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers>
-              <errorMarker text="" propertyCell="true" cellId="property_name" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_increasingThreshold" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-              </errorMarker>
-              <errorMarker text="" propertyCell="false" cellId="empty_decreasingThreshold" cellNumber="0" isInList="false">
-                <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-              </errorMarker>
-            </errorMarkers>
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="457" />
-                <property name="caretXRelative" value="20" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_Max" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578789057" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[CoolingBehaviorTable]" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/&lt;no name&gt;[CoolingBehaviorTable]" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -2613,105 +1606,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.table.coolingbehavior.examples/org.iets3.req.table.diehltable.sandbox/Cooling Behavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.NodeRangeSelection">
-                <property name="role" value="drow" />
-                <property name="modelId" value="r:62b7520a-c577-477b-9086-64b4fd837011(org.iets3.req.table.diehltable.sandbox)" />
-                <property name="firstNodeId" value="6837638942488248318" />
-                <property name="parentNodeId" value="3665318202133836488" />
-                <property name="lastNodeId" value="3665318202133836491" />
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="457" />
-                <property name="caretXRelative" value="20" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_Max" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578789057" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578789057" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="325" />
-                <property name="caretXRelative" value="160" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
     <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
@@ -2748,30 +1644,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior" />
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerreq">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="25" />
+                <property name="caretX" value="166" />
                 <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_m53z7w_e0" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786297" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <errorMarkers />
             <transactionalProperties />
-            <foldable />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786915" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_contents" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786921" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_tags" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786915" />
+                </cellIdElement>
+              </collapsedElement>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="refNodeList_requirements" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786873" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
             <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
-            </enabledHints>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578786297" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2785,18 +1700,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/controllerbehavior">
+    <entry file="mps://node://org.iets3.table.coolingbehavior.examples/org.iets3.req.table.diehltable.sandbox/Cooling Behavior">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.NodeRangeSelection">
+                <property name="role" value="drow" />
+                <property name="modelId" value="r:62b7520a-c577-477b-9086-64b4fd837011(org.iets3.req.table.diehltable.sandbox)" />
+                <property name="firstNodeId" value="6837638942488248318" />
+                <property name="parentNodeId" value="3665318202133836488" />
+                <property name="lastNodeId" value="3665318202133836491" />
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.modelproperty.formulae/org.iets3.process.modelproperty.formulae.structure/ImplicationPropertyFormula">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="325" />
-                <property name="caretXRelative" value="160" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923299" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2805,7 +1748,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578788584" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923299" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -2816,6 +1759,251 @@
               <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
             </enabledHints>
           </inspectorMemento>
+          <node node_ref="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923299" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.modelproperty.formulae/org.iets3.process.modelproperty.formulae.structure/AndPropertyFormula">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923291" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923291" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.modelproperty.formulae/org.iets3.process.modelproperty.formulae.structure/OrPropertyFormula">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923294" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923294" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:afc6f445-2ccb-416f-bf5b-6cd26b99557c(org.iets3.process.modelproperty.formulae.structure)/4439542802417923294" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.table.coolingbehaviortable/org.iets3.table.coolingbehaviortable.structure/CoolingBehaviorTable">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/Cooling Controller Requirements">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="148" />
+                <property name="caretXRelative" value="4" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/4833124655349420812" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/4833124655349420812" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.instance/org.iets3.process.instance.coolingmodel/DashboardHintDisplayer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="109" />
+                <property name="caretXRelative" value="84" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_m53z7w_a0" cellNumber="0" isInList="false">
+                  <node node_reference="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
+            </enabledHints>
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:19a41b7e-210a-408f-b767-7b11608be270(org.iets3.process.instance.coolingmodel)/7194846606578785679" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="org.iets3.process.dashboard.editor.DashboardVisualisation.DirectedGraph" />
+            </enabledHints>
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.core/org.iets3.process.core.structure/FlowChunk">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_c0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b55a2780-4acd-46ea-b2fe-b6161b3f3a86(org.iets3.process.core.structure)/4833124655349364979" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b55a2780-4acd-46ea-b2fe-b6161b3f3a86(org.iets3.process.core.structure)/4833124655349364979" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:b55a2780-4acd-46ea-b2fe-b6161b3f3a86(org.iets3.process.core.structure)/4833124655349364979" />
         </state>
       </provider>
     </entry>
