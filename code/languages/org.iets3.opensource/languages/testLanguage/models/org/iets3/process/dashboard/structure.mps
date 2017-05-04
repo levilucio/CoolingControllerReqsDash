@@ -157,7 +157,7 @@
       <ref role="20lvS9" node="3HvtPSdglG0" resolve="FlowData" />
     </node>
     <node concept="1QGGSu" id="2WGMc6j8kir" role="rwd14">
-      <property role="1iqoE4" value="${module}/classes_gen/org/iets3/flow/dashboard/icons/D.png" />
+      <property role="1iqoE4" value="${module}/icons/D.png" />
     </node>
   </node>
   <node concept="1TIwiD" id="7c_wSf79K0w">

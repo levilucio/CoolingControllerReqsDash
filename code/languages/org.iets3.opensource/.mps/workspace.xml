@@ -6,7 +6,11 @@
     </option>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3830bde-ea0f-44dd-ac09-ebf685d11757" name="Default" comment="" />
+    <list default="true" id="e3830bde-ea0f-44dd-ac09-ebf685d11757" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" afterPath="$PROJECT_DIR$/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" afterPath="$PROJECT_DIR$/languages/testLanguage/source_gen.caches/org/iets3/process/dashboard/structure/generated" />
+    </list>
     <ignored path="org.iets3.opensource.iws" />
     <ignored path=".mps/workspace.xml" />
     <ignored path="$PROJECT_DIR$/languages/PropertyLanguage/classes_gen/" />
@@ -145,14 +149,14 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="-64" />
-                    <property name="caretXRelative" value="-143" />
+                    <property name="caretX" value="-103" />
+                    <property name="caretXRelative" value="-183" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556187" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -170,7 +174,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DashboardHintDisplayer" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DashboardHintDisplayer" pinned="false" current-in-tab="true">
         <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -191,14 +195,14 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="-64" />
-                    <property name="caretXRelative" value="-143" />
+                    <property name="caretX" value="-103" />
+                    <property name="caretXRelative" value="-183" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556187" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -216,7 +220,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlowData" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FlowData" pinned="false" current-in-tab="false">
         <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/FlowData">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -237,14 +241,14 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                    <property name="caretX" value="-64" />
-                    <property name="caretXRelative" value="-143" />
+                    <property name="caretX" value="-103" />
+                    <property name="caretXRelative" value="-183" />
                     <property name="sideSelectDirection" value="NONE" />
                     <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
-                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                      <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556187" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -589,6 +593,20 @@
               <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="org" />
               <option name="myItemType" value="" />
@@ -603,6 +621,18 @@
               <option name="myItemId" value="Project" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10211132-9b5e-427a-9b37-1c1f28794a5e(org.iets3.process.dashboard)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -617,14 +647,6 @@
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="process" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="$PROJECT_DIR$/solutions/FlowDescriptorSandbox/org.iets3.process.instance.msd" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -646,6 +668,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="process" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10211132-9b5e-427a-9b37-1c1f28794a5e(org.iets3.process.dashboard)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
           <SELECTED>
             <PATH_ELEMENT>
               <option name="myItemId" value="Project" />
@@ -656,7 +692,15 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="e8ac6d12-64b2-4478-bf9a-80cbf4ec8c16(org.iets3.process.core)" />
+              <option name="myItemId" value="10211132-9b5e-427a-9b37-1c1f28794a5e(org.iets3.process.dashboard)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure) in IdeaFile{file:///home/saad/CoolingControllerReqsDash/code/languages/org.iets3.opensource/languages/testLanguage/models/org/iets3/process/dashboard/structure.mps}" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2376827924916268618" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -682,6 +726,42 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/EARS-CTRLDash/code/languages/org.iets3.opensource" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
+      <MyState />
+      <myJUnitSettings>
+        <MyState>
+          <option name="myModel" />
+          <option name="myModule" />
+          <option name="myInProcess" value="true" />
+          <option name="myReuseCaches" value="true" />
+          <option name="myDebug" value="false" />
+          <option name="myCachesPath" value="/tmp/mps_test_dir0" />
+          <option name="myTestCases">
+            <list />
+          </option>
+          <option name="myTestMethods">
+            <list />
+          </option>
+          <option name="myRunType" value="0" />
+        </MyState>
+      </myJUnitSettings>
+      <myJavaRunParameters>
+        <MyState>
+          <option name="myJavaRunParameters">
+            <JavaRunParameters>
+              <option name="jrePath" />
+              <option name="programParameters" />
+              <option name="useAlternativeJre" value="false" />
+              <option name="vmOptions" />
+              <option name="workingDirectory" />
+            </JavaRunParameters>
+          </option>
+        </MyState>
+      </myJavaRunParameters>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -689,8 +769,8 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Visualization" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -707,17 +787,19 @@
       <window_info id="Search" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Tree" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.5250996" order="14" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.005988024" sideWeight="0.5282869" order="14" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Chart" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.005988024" sideWeight="0.4749004" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.005988024" sideWeight="0.47171316" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Context Actions" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="CBMC Lifted Results" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Spin Lifted Results" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0975161" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934684" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
@@ -734,10 +816,8 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Last Result" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0975161" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Visualisation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
@@ -2035,14 +2115,14 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="-64" />
-                <property name="caretXRelative" value="-143" />
+                <property name="caretX" value="-103" />
+                <property name="caretXRelative" value="-183" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556187" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2056,50 +2136,6 @@
             </enabledHints>
           </inspectorMemento>
           <node node_ref="r:4cfd5e11-f7f0-4e58-82bd-8b7f0a30d46f(org.iets3.table.coolingbehaviortable.structure)/7430885610120727933" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="31" />
-                <property name="caretXRelative" value="0" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
-                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="-64" />
-                <property name="caretXRelative" value="-143" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints>
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
-              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
-            </enabledHints>
-          </inspectorMemento>
-          <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
         </state>
       </provider>
     </entry>
@@ -2123,14 +2159,14 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
-                <property name="caretX" value="-64" />
-                <property name="caretXRelative" value="-143" />
+                <property name="caretX" value="-103" />
+                <property name="caretXRelative" value="-183" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
-                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556189" />
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556187" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -2144,6 +2180,50 @@
             </enabledHints>
           </inspectorMemento>
           <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/4278269416858278656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://org.iets3.process.dashboard/org.iets3.process.dashboard.structure/DashboardHintDisplayer">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="31" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="emptyPropertiesPlaceHolder" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="-103" />
+                <property name="caretXRelative" value="-183" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="JComponent_tl1n57_b0a" cellNumber="0" isInList="false">
+                  <node node_reference="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/3399312552480556187" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints>
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor_doNotUseThisHint" />
+              <enabledHintsElement enabledHintsAttribute="de.slisson.mps.conditionalEditor.hints.editor.conditionalEditorHints.conditionalEditor" />
+            </enabledHints>
+          </inspectorMemento>
+          <node node_ref="r:b3404408-df39-4a35-9698-ae7cc49751d9(org.iets3.process.dashboard.structure)/2376827924916268618" />
         </state>
       </provider>
     </entry>
